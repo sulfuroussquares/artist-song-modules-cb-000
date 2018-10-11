@@ -12,4 +12,5 @@ end
 
 module InstanceMethods
 end
+
 end
