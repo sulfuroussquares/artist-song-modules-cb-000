@@ -4,6 +4,8 @@ class Artist
   extend Memorable::ClassMethods
   extend Findable
   include Paramable
+  include Memorable::InstanceMethods
+
   attr_accessor :name
   attr_reader :songs
 
