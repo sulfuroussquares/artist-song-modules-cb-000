@@ -1,5 +1,4 @@
 require 'pry'
-require_relative './conig/concerns/environment.rb'
 
 class Song
   extend Memorable
