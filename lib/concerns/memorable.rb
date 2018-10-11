@@ -9,4 +9,7 @@ module ClassMethods
   end
 
 end
+
+module InstanceMethods
+end
 end
